@@ -1,0 +1,932 @@
+﻿Area Name,County,Labor Force,Employment,Unemployment Number,Unemployment Rate
+Alameda ,Alameda                                               ,"42,300","41,100","1,200",2.8%
+Albany ,Alameda                                               ,"10,000","9,700",200,2.4%
+Ashland ,Alameda                                               ,"11,500","11,000",600,4.9%
+Berkeley ,Alameda                                               ,"64,000","62,100","1,900",3.0%
+Castro Valley ,Alameda                                               ,"32,900","32,000",900,2.9%
+Cherryland ,Alameda                                               ,"7,500","7,100",400,5.1%
+Dublin ,Alameda                                               ,"31,700","30,800",900,2.7%
+Emeryville ,Alameda                                               ,"7,700","7,500",200,2.6%
+Fairview ,Alameda                                               ,"5,300","5,200",100,1.6%
+Fremont ,Alameda                                               ,"120,900","117,500","3,300",2.7%
+Hayward ,Alameda                                               ,"79,400","76,700","2,700",3.4%
+Livermore ,Alameda                                               ,"49,100","47,800","1,300",2.6%
+Newark ,Alameda                                               ,"25,200","24,500",700,2.9%
+Oakland ,Alameda                                               ,"215,700","208,100","7,500",3.5%
+Piedmont ,Alameda                                               ,"5,300","5,200",100,2.0%
+Pleasanton ,Alameda                                               ,"42,100","40,900","1,200",2.8%
+San Leandro ,Alameda                                               ,"47,600","46,000","1,600",3.3%
+San Lorenzo ,Alameda                                               ,"12,800","12,400",400,3.2%
+Sunol ,Alameda                                               ,500,500,0,2.6%
+Union  ,Alameda                                               ,"37,900","36,700","1,200",3.2%
+Alpine Village ,Alpine                                                ,90,90,0,0.0%
+Bear Valley ,Alpine                                                ,40,40,0,0.0%
+Kirkwood ,Alpine                                                ,50,50,0,0.0%
+Markleeville ,Alpine                                                ,60,60,0,0.0%
+Mesa Vista ,Alpine                                                ,90,70,20,17.2%
+Amador  ,Amador                                                ,70,70,10,7.1%
+Ione ,Amador                                                ,"1,730","1,640",90,5.3%
+Jackson ,Amador                                                ,"2,200","2,130",70,3.0%
+Plymouth ,Amador                                                ,590,570,10,2.4%
+Sutter Creek ,Amador                                                ,"1,020","1,000",20,1.8%
+Aliso Viejo ,Orange                                                ,"30,200","29,400",800,2.8%
+Anaheim ,Orange                                                ,"170,600","165,300","5,300",3.1%
+Brea ,Orange                                                ,"22,600","21,900",700,2.9%
+Buena Park ,Orange                                                ,"40,400","39,000","1,400",3.4%
+Costa Mesa ,Orange                                                ,"65,700","63,900","1,800",2.7%
+Coto de Caza ,Orange                                                ,"7,400","7,200",200,2.4%
+Cypress ,Orange                                                ,"25,000","24,200",800,3.3%
+Dana Point ,Orange                                                ,"18,700","18,300",500,2.6%
+Fountain Valley ,Orange                                                ,"28,400","27,500",900,3.1%
+Fullerton ,Orange                                                ,"70,400","68,100","2,300",3.2%
+Garden Grove ,Orange                                                ,"81,900","79,200","2,700",3.3%
+Huntington Beach ,Orange                                                ,"108,900","105,700","3,200",3.0%
+Irvine ,Orange                                                ,"144,500","140,300","4,200",2.9%
+La Habra ,Orange                                                ,"30,900","30,000",900,3.0%
+La Palma ,Orange                                                ,"7,900","7,700",200,2.5%
+Laguna Beach ,Orange                                                ,"12,600","12,300",300,2.6%
+Laguna Hills ,Orange                                                ,"17,100","16,600",400,2.5%
+Laguna Niguel ,Orange                                                ,"35,500","34,400","1,100",3.0%
+Laguna Woods ,Orange                                                ,"3,500","3,400",100,2.2%
+Lake Forest ,Orange                                                ,"48,100","46,900","1,300",2.6%
+Las Flores ,Orange                                                ,"2,900","2,900",100,2.1%
+Los Alamitos ,Orange                                                ,"5,700","5,500",200,3.3%
+Mission Viejo ,Orange                                                ,"49,900","48,400","1,500",3.1%
+Newport Beach ,Orange                                                ,"45,200","44,000","1,200",2.7%
+Orange ,Orange                                                ,"72,400","70,300","2,200",3.0%
+Placentia ,Orange                                                ,"26,000","25,100",800,3.3%
+Rancho Santa Margarita ,Orange                                                ,"27,800","27,100",700,2.7%
+Rossmoor ,Orange                                                ,"5,100","5,000",100,2.4%
+San Clemente ,Orange                                                ,"31,900","31,000",900,2.9%
+San Juan Capistrano ,Orange                                                ,"17,200","16,700",500,2.9%
+Santa Ana ,Orange                                                ,"157,600","152,800","4,800",3.1%
+Seal Beach ,Orange                                                ,"10,000","9,700",400,3.6%
+Stanton ,Orange                                                ,"18,500","17,900",600,3.1%
+Tustin ,Orange                                                ,"42,800","41,600","1,200",2.8%
+Villa Park ,Orange                                                ,"2,500","2,400",100,4.6%
+Westminster ,Orange                                                ,"41,900","40,500","1,400",3.3%
+Yorba Linda ,Orange                                                ,"35,000","34,000","1,000",2.7%
+Arvin ,Kern                                                  ,"9,300","8,600",700,7.2%
+Bakersfield ,Kern                                                  ,"181,300","170,700","10,500",5.8%
+Bear Valley Springs ,Kern                                                  ,"2,000","1,900",100,3.6%
+Bodfish ,Kern                                                  ,400,400,100,14.6%
+Boron ,Kern                                                  ,800,800,0,3.9%
+Buttonwillow ,Kern                                                  ,600,500,100,10.7%
+California  ,Kern                                                  ,"4,900","4,100",800,16.3%
+China Lake Acres ,Kern                                                  ,700,600,100,13.4%
+Delano ,Kern                                                  ,"21,300","17,400","3,900",18.3%
+Derby Acres ,Kern                                                  ,100,100,0,3.7%
+Dustin Acres ,Kern                                                  ,300,300,0,7.0%
+Edwards AFB ,Kern                                                  ,400,400,0,6.9%
+Fellows ,Kern                                                  ,0,0,0,3.8%
+Ford  ,Kern                                                  ,"2,100","1,900",200,8.0%
+Frazier Park ,Kern                                                  ,900,900,100,8.2%
+Golden Hills ,Kern                                                  ,"4,300","4,200",200,3.7%
+Inyokern ,Kern                                                  ,300,300,0,0.0%
+Johannesburg ,Kern                                                  ,0,0,0,0.0%
+Keene ,Kern                                                  ,100,100,0,19.7%
+Kernville ,Kern                                                  ,600,600,0,0.0%
+Lake Isabella ,Kern                                                  ,"1,600","1,500",100,9.0%
+Lake of the Woods ,Kern                                                  ,500,500,0,3.3%
+Lamont ,Kern                                                  ,"7,300","6,900",400,5.8%
+Lebec ,Kern                                                  ,900,700,100,13.5%
+Lost Hills ,Kern                                                  ,900,900,0,3.5%
+Maricopa ,Kern                                                  ,300,300,0,11.3%
+McFarland ,Kern                                                  ,"5,600","5,000",500,9.8%
+McKittrick ,Kern                                                  ,100,0,0,14.3%
+Mettler ,Kern                                                  ,100,100,0,10.8%
+Mojave ,Kern                                                  ,"1,800","1,600",300,14.2%
+Mountain Mesa ,Kern                                                  ,100,100,0,10.9%
+North Edwards ,Kern                                                  ,400,400,0,9.7%
+Oildale ,Kern                                                  ,"15,400","13,700","1,700",10.9%
+Onyx ,Kern                                                  ,200,200,0,0.0%
+Pine Mountain Club ,Kern                                                  ,700,700,0,5.0%
+Randsburg ,Kern                                                  ,0,0,0,0.0%
+Ridgecrest ,Kern                                                  ,"14,100","13,600",500,3.4%
+Rosamond ,Kern                                                  ,"8,900","8,100",800,9.0%
+Rosedale ,Kern                                                  ,"8,600","8,200",400,4.9%
+Shafter ,Kern                                                  ,"7,500","6,900",700,8.7%
+South Taft ,Kern                                                  ,600,500,100,13.1%
+Squirrel Mountain Valley ,Kern                                                  ,300,300,0,6.3%
+Stallion Springs ,Kern                                                  ,"1,300","1,100",100,11.5%
+Taft ,Kern                                                  ,"3,000","2,900",100,3.4%
+Taft Heights ,Kern                                                  ,"1,200","1,100",100,8.8%
+Tehachapi ,Kern                                                  ,"3,900","3,700",200,4.5%
+Tupman ,Kern                                                  ,100,0,0,17.3%
+Valley Acres ,Kern                                                  ,200,200,0,6.2%
+Wasco ,Kern                                                  ,"8,700","7,700","1,000",11.5%
+Weedpatch ,Kern                                                  ,900,800,100,8.5%
+Weldon ,Kern                                                  ,900,900,100,7.1%
+Wofford Heights ,Kern                                                  ,600,600,0,2.4%
+Angels ,Calaveras                                             ,"1,860","1,850",0,0.2%
+Arnold ,Calaveras                                             ,"1,300","1,240",60,4.6%
+Avery ,Calaveras                                             ,320,300,20,6.8%
+Copperopolis ,Calaveras                                             ,"2,370","2,300",70,3.0%
+Dorrington ,Calaveras                                             ,80,80,0,0.0%
+Forest Meadows ,Calaveras                                             ,830,790,40,5.2%
+Mokelumne Hill ,Calaveras                                             ,220,180,50,21.4%
+Mountain Ranch ,Calaveras                                             ,420,390,30,6.9%
+Murphys ,Calaveras                                             ,910,890,30,2.7%
+Rancho Calaveras ,Calaveras                                             ,"3,180","3,070",120,3.7%
+San Andreas ,Calaveras                                             ,"1,560","1,530",30,1.8%
+Valley Springs ,Calaveras                                             ,"2,060","2,040",20,1.2%
+West Point ,Calaveras                                             ,180,180,0,0.0%
+Biggs ,Butte                                                 ,800,800,100,6.0%
+Chico ,Butte                                                 ,"48,400","46,300","2,100",4.4%
+Concow ,Butte                                                 ,200,200,0,9.5%
+Durham ,Butte                                                 ,"2,900","2,900",100,2.7%
+Gridley ,Butte                                                 ,"2,800","2,600",200,5.6%
+Magalia ,Butte                                                 ,"4,600","4,400",200,4.5%
+Oroville ,Butte                                                 ,"6,700","6,400",300,4.7%
+Oroville East ,Butte                                                 ,"2,900","2,800",100,5.1%
+Palermo ,Butte                                                 ,"2,000","1,800",200,10.3%
+Paradise town,Butte                                                 ,"10,900","10,600",300,3.2%
+South Oroville ,Butte                                                 ,"1,100","1,000",100,7.7%
+Thermalito ,Butte                                                 ,"2,400","2,200",200,7.5%
+Arbuckle ,Colusa                                                ,"1,950","1,740",210,10.5%
+Colusa ,Colusa                                                ,"3,100","2,860",240,7.9%
+Williams ,Colusa                                                ,"2,920","2,730",200,6.7%
+Alamo ,Contra Costa                                          ,"7,100","7,000",200,2.1%
+Antioch ,Contra Costa                                          ,"51,500","49,400","2,100",4.1%
+Bay Point ,Contra Costa                                          ,"11,200","10,500",700,6.6%
+Bethel Island ,Contra Costa                                          ,900,900,0,1.3%
+Brentwood ,Contra Costa                                          ,"29,200","28,200","1,000",3.3%
+Byron ,Contra Costa                                          ,800,700,0,3.9%
+Clayton ,Contra Costa                                          ,"6,100","6,000",100,1.8%
+Clyde ,Contra Costa                                          ,600,600,0,1.4%
+Concord ,Contra Costa                                          ,"66,900","64,900","2,100",3.1%
+Crockett ,Contra Costa                                          ,"1,700","1,700",100,3.7%
+Danville town,Contra Costa                                          ,"21,100","20,500",600,2.9%
+Diablo ,Contra Costa                                          ,100,100,0,0.0%
+Discovery Bay ,Contra Costa                                          ,"7,900","7,600",200,3.1%
+East Richmond Heights ,Contra Costa                                          ,"2,100","2,000",0,1.6%
+El Cerrito ,Contra Costa                                          ,"14,000","13,700",400,2.6%
+El Sobrante ,Contra Costa                                          ,"7,600","7,300",300,3.6%
+Hercules ,Contra Costa                                          ,"14,100","13,700",400,2.9%
+Kensington ,Contra Costa                                          ,"3,000","2,900",100,1.7%
+Knightsen ,Contra Costa                                          ,700,700,0,3.8%
+Lafayette ,Contra Costa                                          ,"12,800","12,500",300,2.7%
+Martinez ,Contra Costa                                          ,"20,900","20,300",600,3.0%
+Mountain View ,Contra Costa                                          ,"1,400","1,300",100,5.5%
+Oakley ,Contra Costa                                          ,"19,900","19,200",700,3.4%
+Orinda ,Contra Costa                                          ,"9,200","9,000",200,1.9%
+Pacheco ,Contra Costa                                          ,"2,500","2,400",100,4.7%
+Pinole ,Contra Costa                                          ,"10,300","10,000",300,2.7%
+Pittsburg ,Contra Costa                                          ,"34,700","33,400","1,300",3.9%
+Pleasant Hill ,Contra Costa                                          ,"18,400","17,900",500,2.8%
+Port Costa ,Contra Costa                                          ,200,200,0,0.0%
+Richmond ,Contra Costa                                          ,"53,600","51,600","2,000",3.7%
+Rodeo ,Contra Costa                                          ,"5,000","4,800",200,4.0%
+Rollingwood ,Contra Costa                                          ,"1,500","1,400",100,4.4%
+San Pablo ,Contra Costa                                          ,"14,100","13,600",500,3.6%
+San Ramon ,Contra Costa                                          ,"40,300","39,200","1,100",2.7%
+Tara Hills ,Contra Costa                                          ,"2,500","2,400",100,4.6%
+Vine Hill ,Contra Costa                                          ,"1,800","1,700",100,4.0%
+Walnut Creek ,Contra Costa                                          ,"34,800","33,900",900,2.7%
+Bertsch Oceanview ,Del Norte                                             ,820,730,90,11.0%
+Crescent  ,Del Norte                                             ,"1,530","1,450",80,5.2%
+Klamath ,Del Norte                                             ,280,260,30,9.5%
+Brawley ,Imperial                                              ,"10,000","8,300","1,700",16.8%
+Calexico ,Imperial                                              ,"19,500","12,200","7,400",37.7%
+Calipatria ,Imperial                                              ,"1,200",900,300,26.2%
+El Centro ,Imperial                                              ,"18,200","15,200","3,000",16.3%
+Heber ,Imperial                                              ,"1,800","1,300",500,26.9%
+Holtville ,Imperial                                              ,"2,500","1,900",600,23.2%
+Imperial ,Imperial                                              ,"7,800","6,500","1,300",16.6%
+Westmorland ,Imperial                                              ,900,700,200,18.2%
+Cameron Park ,El Dorado                                             ,"9,600","9,300",300,3.3%
+Diamond Springs ,El Dorado                                             ,"5,000","4,700",300,5.1%
+El Dorado Hills ,El Dorado                                             ,"22,900","22,200",700,2.9%
+Georgetown ,El Dorado                                             ,"1,000","1,000",0,4.8%
+Placerville ,El Dorado                                             ,"4,800","4,600",200,3.8%
+Pollock Pines ,El Dorado                                             ,"3,200","3,100",100,3.0%
+Shingle Springs ,El Dorado                                             ,"2,100","2,100",100,3.2%
+South Lake Tahoe ,El Dorado                                             ,"12,500","12,000",500,4.3%
+Auberry ,Fresno                                                ,"1,100","1,000",0,3.2%
+Biola ,Fresno                                                ,600,500,100,14.7%
+Calwa ,Fresno                                                ,800,800,100,9.6%
+Cantua Creek ,Fresno                                                ,100,100,0,4.8%
+Caruthers ,Fresno                                                ,"1,400","1,300",100,7.8%
+Clovis ,Fresno                                                ,"55,200","52,700","2,500",4.6%
+Coalinga ,Fresno                                                ,"6,400","6,000",500,7.1%
+Del Rey ,Fresno                                                ,600,500,0,7.5%
+Easton ,Fresno                                                ,"1,100","1,000",100,7.5%
+Firebaugh ,Fresno                                                ,"3,900","3,500",400,11.1%
+Fowler ,Fresno                                                ,"3,000","2,800",200,6.1%
+Fresno ,Fresno                                                ,"239,500","224,800","14,700",6.1%
+Friant ,Fresno                                                ,200,200,0,10.9%
+Huron ,Fresno                                                ,"2,800","2,600",200,7.3%
+Kerman ,Fresno                                                ,"6,900","6,500",400,5.5%
+Kingsburg ,Fresno                                                ,"5,700","5,400",300,6.0%
+Lanare ,Fresno                                                ,100,100,0,7.1%
+Laton ,Fresno                                                ,800,700,100,8.3%
+Mendota ,Fresno                                                ,"5,000","4,300",800,15.4%
+Orange Cove ,Fresno                                                ,"3,700","3,400",300,8.8%
+Parlier ,Fresno                                                ,"6,700","6,300",400,6.7%
+Raisin  ,Fresno                                                ,100,100,0,5.2%
+Reedley ,Fresno                                                ,"12,400","11,100","1,400",10.9%
+Riverdale ,Fresno                                                ,"1,500","1,400",100,8.0%
+San Joaquin ,Fresno                                                ,"1,500","1,400",100,6.3%
+Sanger ,Fresno                                                ,"11,800","10,900","1,000",8.1%
+Selma ,Fresno                                                ,"10,800","10,200",600,5.6%
+Shaver Lake ,Fresno                                                ,300,300,0,0.7%
+Squaw Valley ,Fresno                                                ,"1,400","1,400",100,5.9%
+Tranquillity ,Fresno                                                ,300,300,0,0.0%
+Hamilton  ,Glenn                                                 ,950,930,20,2.4%
+Orland ,Glenn                                                 ,"3,640","3,390",250,6.9%
+Willows ,Glenn                                                 ,"2,630","2,460",170,6.4%
+Armona ,Kings                                                 ,"1,500","1,300",100,9.9%
+Avenal ,Kings                                                 ,"3,800","3,500",300,9.1%
+Corcoran ,Kings                                                 ,"4,600","3,900",600,14.1%
+Hanford ,Kings                                                 ,"25,400","23,800","1,600",6.2%
+Home Garden ,Kings                                                 ,800,700,100,10.3%
+Kettleman  ,Kings                                                 ,800,700,100,6.8%
+Lemoore ,Kings                                                 ,"12,300","11,700",600,5.0%
+Lemoore Station ,Kings                                                 ,"1,400","1,300",100,7.2%
+Stratford ,Kings                                                 ,400,300,100,21.5%
+Arcata ,Humboldt                                              ,"9,100","8,500",600,6.1%
+Blue Lake ,Humboldt                                              ,600,600,0,2.1%
+Eureka ,Humboldt                                              ,"12,800","12,300",500,3.9%
+Ferndale ,Humboldt                                              ,700,700,0,1.4%
+Fortuna ,Humboldt                                              ,"5,000","4,800",200,4.4%
+Hydesville ,Humboldt                                              ,500,500,0,0.8%
+McKinleyville ,Humboldt                                              ,"8,000","7,700",300,3.5%
+Redway ,Humboldt                                              ,800,700,0,4.6%
+Rio Dell ,Humboldt                                              ,"1,300","1,300",0,2.6%
+Trinidad ,Humboldt                                              ,100,100,0,0.0%
+Willow Creek ,Humboldt                                              ,400,400,0,2.4%
+Big Pine ,Inyo                                                  ,710,660,50,6.5%
+Bishop ,Inyo                                                  ,"1,820","1,790",30,1.8%
+Cartago ,Inyo                                                  ,10,10,0,0.0%
+Darwin ,Inyo                                                  ,0,0,0,0.0%
+Dixon Lane Meadow Creek ,Inyo                                                  ,"1,250","1,210",40,3.0%
+Furnace Creek ,Inyo                                                  ,130,130,0,0.8%
+Independence ,Inyo                                                  ,260,250,10,2.7%
+Keeler ,Inyo                                                  ,0,0,0,0.0%
+Lone Pine ,Inyo                                                  ,840,810,30,3.6%
+Mesa ,Inyo                                                  ,160,160,10,3.7%
+Olancha ,Inyo                                                  ,130,120,10,7.8%
+Round Valley ,Inyo                                                  ,220,220,0,0.9%
+Shoshone ,Inyo                                                  ,10,10,0,0.0%
+Tecopa ,Inyo                                                  ,50,30,20,31.3%
+West Bishop ,Inyo                                                  ,"1,400","1,370",30,2.1%
+Wilkerson ,Inyo                                                  ,260,260,10,2.3%
+Clearlake ,Lake                                                  ,"6,360","5,940",420,6.5%
+Clearlake Oaks ,Lake                                                  ,820,770,60,6.7%
+Cobb ,Lake                                                  ,560,550,10,2.3%
+Hidden Valley Lake ,Lake                                                  ,"3,060","3,010",50,1.7%
+Kelseyville ,Lake                                                  ,"1,380","1,300",80,6.1%
+Lakeport ,Lake                                                  ,"2,550","2,490",70,2.6%
+Lower Lake ,Lake                                                  ,680,660,20,3.1%
+Lucerne ,Lake                                                  ,"1,390","1,330",70,4.7%
+Middletown ,Lake                                                  ,440,420,20,4.1%
+Nice ,Lake                                                  ,"1,040",990,40,4.1%
+North Lakeport ,Lake                                                  ,"1,630","1,590",50,2.9%
+Upper Lake ,Lake                                                  ,510,500,10,2.3%
+Susanville ,Lassen                                                ,"3,100","2,970",130,4.2%
+Westwood ,Lassen                                                ,800,780,20,2.9%
+Acton ,Los Angeles ,"3,700","3,400",200,6.6%
+Agoura Hills ,Los Angeles ,"11,600","11,100",500,4.2%
+Alhambra ,Los Angeles ,"46,500","44,700","1,800",3.9%
+Alondra Park ,Los Angeles ,"3,700","3,500",200,5.8%
+Altadena ,Los Angeles ,"23,900","23,100",900,3.6%
+Arcadia ,Los Angeles ,"29,800","28,700","1,100",3.6%
+Artesia ,Los Angeles ,"8,000","7,800",200,2.8%
+Avalon ,Los Angeles ,"2,000","2,000",0,1.3%
+Avocado Heights ,Los Angeles ,"7,800","7,300",500,5.8%
+Azusa ,Los Angeles ,"25,000","23,900","1,100",4.5%
+Baldwin Park ,Los Angeles ,"34,700","33,000","1,700",4.9%
+Bell ,Los Angeles ,"15,100","14,400",800,5.2%
+Bell Gardens ,Los Angeles ,"18,100","17,300",800,4.5%
+Bellflower ,Los Angeles ,"36,600","34,600","2,000",5.3%
+Beverly Hills ,Los Angeles ,"18,400","17,600",700,4.1%
+Bradbury ,Los Angeles ,500,500,0,3.0%
+Burbank ,Los Angeles ,"59,400","56,300","3,100",5.2%
+Calabasas ,Los Angeles ,"12,300","11,900",400,3.1%
+Carson ,Los Angeles ,"46,300","43,900","2,400",5.2%
+Cerritos ,Los Angeles ,"25,500","24,500","1,000",3.9%
+Charter Oak ,Los Angeles ,"4,800","4,500",300,5.5%
+Citrus ,Los Angeles ,"5,500","5,200",200,4.3%
+Claremont ,Los Angeles ,"17,000","16,200",800,4.5%
+Commerce ,Los Angeles ,"6,000","5,600",400,6.7%
+Compton ,Los Angeles ,"39,500","36,900","2,600",6.6%
+Covina ,Los Angeles ,"24,100","22,900","1,100",4.7%
+Cudahy ,Los Angeles ,"10,100","9,700",500,4.6%
+Culver  ,Los Angeles ,"22,900","21,900","1,000",4.3%
+Del Aire ,Los Angeles ,"5,700","5,500",300,4.4%
+Desert View Highlands ,Los Angeles ,"1,000",900,100,6.7%
+Diamond Bar ,Los Angeles ,"30,400","29,200","1,200",3.9%
+Downey ,Los Angeles ,"57,500","54,900","2,600",4.5%
+Duarte ,Los Angeles ,"11,200","10,600",600,5.3%
+East Los Angeles ,Los Angeles ,"57,600","53,100","4,500",7.8%
+East Pasadena ,Los Angeles ,"3,200","3,100",100,2.4%
+East San Gabriel ,Los Angeles ,"7,700","7,600",100,1.5%
+El Monte ,Los Angeles ,"51,600","49,300","2,300",4.4%
+El Segundo ,Los Angeles ,"9,700","9,300",400,3.8%
+Florence Graham ,Los Angeles ,"27,400","25,700","1,700",6.3%
+Gardena ,Los Angeles ,"30,400","28,900","1,500",4.9%
+Glendale ,Los Angeles ,"103,700","99,300","4,500",4.3%
+Glendora ,Los Angeles ,"26,200","25,100","1,100",4.2%
+Hacienda Heights ,Los Angeles ,"26,200","25,200",900,3.5%
+Hawaiian Gardens ,Los Angeles ,"6,000","5,700",400,6.3%
+Hawthorne ,Los Angeles ,"44,900","42,800","2,100",4.6%
+Hermosa Beach ,Los Angeles ,"12,600","12,400",300,2.2%
+Hidden Hills ,Los Angeles ,600,600,0,3.9%
+Huntington Park ,Los Angeles ,"26,700","25,400","1,300",4.8%
+Industry ,Los Angeles ,200,100,0,7.6%
+Inglewood ,Los Angeles ,"53,000","50,000","3,000",5.7%
+Irwindale ,Los Angeles ,600,600,0,7.2%
+La Canada Flintridge ,Los Angeles ,"9,700","9,500",200,2.0%
+La Crescenta Montrose ,Los Angeles ,"10,300","10,000",300,2.9%
+La Habra Heights ,Los Angeles ,"2,500","2,400",100,2.2%
+La Mirada ,Los Angeles ,"24,300","23,300","1,100",4.5%
+La Puente ,Los Angeles ,"19,100","18,200",900,4.5%
+La Verne ,Los Angeles ,"16,100","15,400",700,4.5%
+Ladera Heights ,Los Angeles ,"3,600","3,400",200,5.6%
+Lake Los Angeles ,Los Angeles ,"4,000","3,600",300,8.7%
+Lakewood ,Los Angeles ,"43,100","41,200","1,900",4.4%
+Lancaster ,Los Angeles ,"65,100","60,800","4,300",6.7%
+Lawndale ,Los Angeles ,"16,700","15,900",700,4.3%
+Lennox ,Los Angeles ,"10,600","10,000",600,5.9%
+Littlerock ,Los Angeles ,500,500,0,6.8%
+Lomita ,Los Angeles ,"11,500","11,000",500,4.0%
+Long Beach ,Los Angeles ,"239,200","227,100","12,100",5.1%
+Los Angeles ,Los Angeles ,"2,066,100","1,968,400","97,700",4.7%
+Lynwood ,Los Angeles ,"28,600","27,000","1,600",5.7%
+Malibu ,Los Angeles ,"6,600","6,400",200,2.9%
+Manhattan Beach ,Los Angeles ,"19,900","19,200",700,3.5%
+Marina del Rey ,Los Angeles ,"7,100","6,900",200,3.1%
+Mayflower Village ,Los Angeles ,"3,100","3,000",100,3.4%
+Maywood ,Los Angeles ,"12,400","11,900",500,4.2%
+Monrovia ,Los Angeles ,"21,000","20,200",800,3.9%
+Montebello ,Los Angeles ,"29,100","27,600","1,500",5.2%
+Monterey Park ,Los Angeles ,"29,500","28,300","1,200",4.1%
+North El Monte ,Los Angeles ,"1,800","1,800",0,2.1%
+Norwalk ,Los Angeles ,"50,700","48,200","2,500",4.9%
+Palmdale ,Los Angeles ,"64,300","60,300","4,000",6.2%
+Palos Verdes Estates ,Los Angeles ,"5,700","5,600",100,2.0%
+Paramount ,Los Angeles ,"24,800","23,500","1,300",5.3%
+Pasadena ,Los Angeles ,"79,200","76,000","3,200",4.0%
+Pico Rivera ,Los Angeles ,"30,500","28,900","1,500",5.0%
+Pomona ,Los Angeles ,"67,900","64,500","3,500",5.1%
+Quartz Hill ,Los Angeles ,"4,200","4,000",200,4.8%
+Rancho Palos Verdes ,Los Angeles ,"19,800","19,000",800,4.0%
+Redondo Beach ,Los Angeles ,"41,400","39,800","1,600",3.8%
+Rolling Hills ,Los Angeles ,600,600,0,4.1%
+Rolling Hills Estates ,Los Angeles ,"3,500","3,400",100,2.5%
+Rosemead ,Los Angeles ,"25,200","24,100","1,100",4.5%
+Rowland Heights ,Los Angeles ,"24,700","24,000",800,3.1%
+San Dimas ,Los Angeles ,"18,000","17,200",800,4.3%
+San Fernando ,Los Angeles ,"11,800","11,200",600,4.9%
+San Gabriel ,Los Angeles ,"21,500","20,600",800,3.9%
+San Marino ,Los Angeles ,"5,600","5,500",100,2.2%
+Santa Clarita ,Los Angeles ,"112,600","107,900","4,800",4.2%
+Santa Fe Springs ,Los Angeles ,"8,300","8,100",300,3.0%
+Santa Monica ,Los Angeles ,"56,600","54,100","2,600",4.5%
+Sierra Madre ,Los Angeles ,"5,800","5,600",200,3.8%
+Signal Hill ,Los Angeles ,"6,300","6,100",200,3.9%
+South El Monte ,Los Angeles ,"9,300","8,900",400,4.2%
+South Gate ,Los Angeles ,"42,800","40,700","2,100",4.9%
+South Pasadena ,Los Angeles ,"15,000","14,400",600,4.2%
+South San Gabriel ,Los Angeles ,"4,100","4,000",100,3.5%
+South San Jose Hills ,Los Angeles ,"9,200","8,600",600,6.1%
+South Whittier ,Los Angeles ,"27,200","26,200","1,000",3.8%
+Temple  ,Los Angeles ,"18,300","17,600",700,3.9%
+Torrance ,Los Angeles ,"78,600","75,600","3,000",3.8%
+Val Verde ,Los Angeles ,"1,600","1,500",100,8.2%
+Valinda ,Los Angeles ,"12,600","11,900",700,5.9%
+Vernon ,Los Angeles ,0,0,0,7.1%
+View Park Windsor Hills ,Los Angeles ,"5,500","5,100",500,8.4%
+Walnut ,Los Angeles ,"16,000","15,400",600,3.5%
+Walnut Park ,Los Angeles ,"7,600","7,300",400,5.1%
+West Athens ,Los Angeles ,"4,600","4,200",300,7.5%
+West Carson ,Los Angeles ,"11,300","10,800",500,4.2%
+West Covina ,Los Angeles ,"53,100","50,600","2,400",4.6%
+West Hollywood ,Los Angeles ,"27,200","25,800","1,400",5.0%
+West Puente Valley ,Los Angeles ,"11,300","10,600",700,6.2%
+West Whittier Los Nietos ,Los Angeles ,"12,800","12,300",400,3.2%
+Westlake Village ,Los Angeles ,"4,000","3,900",100,2.5%
+Westmont ,Los Angeles ,"13,300","12,100","1,100",8.5%
+Whittier ,Los Angeles ,"44,100","41,900","2,100",4.9%
+Willowbrook ,Los Angeles ,"9,600","8,900",700,7.1%
+Bonadelle Ranchos Madera Ranchos ,Madera                                                ,"4,300","4,100",200,4.6%
+Chowchilla ,Madera                                                ,"4,400","4,200",200,5.0%
+Madera Acres ,Madera                                                ,"5,000","4,800",200,4.3%
+Madera ,Madera                                                ,"27,600","25,700","1,900",7.0%
+Oakhurst ,Madera                                                ,"1,800","1,700",100,6.4%
+Parksdale ,Madera                                                ,"1,200","1,100",100,7.0%
+Parkwood ,Madera                                                ,"1,000",900,100,8.4%
+Yosemite Lakes ,Madera                                                ,"1,900","1,800",100,6.9%
+Bootjack ,Mariposa                                              ,330,320,10,4.2%
+Mariposa ,Mariposa                                              ,680,670,10,1.3%
+Yosemite Valley ,Mariposa                                              ,"1,010","1,000",10,1.0%
+Covelo ,Mendocino                                             ,440,410,20,5.1%
+Fort Bragg ,Mendocino                                             ,"3,450","3,350",90,2.7%
+Laytonville ,Mendocino                                             ,440,390,50,10.9%
+Mendocino ,Mendocino                                             ,390,390,0,0.0%
+Point Arena ,Mendocino                                             ,270,260,10,2.6%
+Ukiah ,Mendocino                                             ,"7,300","6,940",360,4.9%
+Willits ,Mendocino                                             ,"1,910","1,860",40,2.3%
+Atwater ,Merced                                                ,"12,200","11,300",900,7.5%
+Delhi ,Merced                                                ,"5,000","4,600",400,7.3%
+Dos Palos ,Merced                                                ,"2,100","1,900",200,7.3%
+Gustine ,Merced                                                ,"2,800","2,500",200,8.0%
+Hilmar Irwin ,Merced                                                ,"2,800","2,800",100,1.9%
+Le Grand ,Merced                                                ,800,700,100,7.4%
+Livingston ,Merced                                                ,"6,900","6,600",300,4.5%
+Los Banos ,Merced                                                ,"16,600","15,300","1,200",7.5%
+Merced ,Merced                                                ,"34,900","32,600","2,400",6.7%
+Planada ,Merced                                                ,"2,000","1,800",200,9.8%
+South Dos Palos ,Merced                                                ,"1,100",900,200,16.9%
+Winton ,Merced                                                ,"4,900","4,400",500,11.0%
+Bret Harte ,Stanislaus                                            ,"2,000","1,800",300,12.6%
+Bystrom ,Stanislaus                                            ,"1,700","1,500",100,8.0%
+Ceres ,Stanislaus                                            ,"21,800","20,300","1,400",6.6%
+Denair ,Stanislaus                                            ,"2,600","2,500",100,3.2%
+East Oakdale ,Stanislaus                                            ,"1,600","1,500",100,4.4%
+Empire ,Stanislaus                                            ,"1,700","1,600",100,7.6%
+Hughson ,Stanislaus                                            ,"3,200","3,000",200,6.0%
+Keyes ,Stanislaus                                            ,"2,600","2,400",200,7.9%
+Modesto ,Stanislaus                                            ,"96,500","91,000","5,500",5.7%
+Newman ,Stanislaus                                            ,"4,500","4,200",300,6.7%
+Oakdale ,Stanislaus                                            ,"9,500","8,900",600,6.4%
+Patterson ,Stanislaus                                            ,"10,200","9,600",600,5.7%
+Riverbank ,Stanislaus                                            ,"12,000","11,400",500,4.4%
+Salida ,Stanislaus                                            ,"7,200","6,900",300,4.4%
+Turlock ,Stanislaus                                            ,"34,600","32,800","1,800",5.1%
+Waterford ,Stanislaus                                            ,"3,600","3,200",400,10.3%
+West Modesto ,Stanislaus                                            ,"2,100","1,800",300,14.4%
+Alturas ,Modoc                                                 ,"1,060","1,010",50,5.0%
+Mammoth Lakes town,Mono                                                  ,"5,970","5,920",50,0.9%
+American Canyon ,Napa                                                  ,"10,600","10,200",400,3.9%
+Angwin ,Napa                                                  ,"2,100","2,100",100,3.0%
+Calistoga ,Napa                                                  ,"2,700","2,700",100,2.3%
+Deer Park ,Napa                                                  ,400,400,0,3.8%
+Napa ,Napa                                                  ,"42,800","41,600","1,200",2.7%
+St. Helena ,Napa                                                  ,"3,000","2,900",100,2.7%
+Yountville town,Napa                                                  ,"1,200","1,200",0,1.9%
+Alta Sierra ,Nevada                                                ,"3,680","3,650",30,0.8%
+Grass Valley ,Nevada                                                ,"5,790","5,500",290,4.9%
+Lake of the Pines ,Nevada                                                ,"2,180","2,100",80,3.8%
+Lake Wildwood ,Nevada                                                ,"2,080","2,080",0,0.0%
+Nevada  ,Nevada                                                ,"1,440","1,420",20,1.4%
+Penn Valley ,Nevada                                                ,770,670,90,12.1%
+Truckee town,Nevada                                                ,"10,730","10,470",260,2.4%
+Camarillo ,Ventura                                               ,"33,000","32,000","1,000",3.2%
+Casa Conejo ,Ventura                                               ,"1,700","1,600",100,5.3%
+Channel Islands Beach ,Ventura                                               ,"1,500","1,400",100,9.2%
+El Rio ,Ventura                                               ,"3,200","3,000",200,5.4%
+Fillmore ,Ventura                                               ,"7,000","6,800",300,3.8%
+Meiners Oaks ,Ventura                                               ,"1,800","1,700",0,2.0%
+Mira Monte ,Ventura                                               ,"3,500","3,400",100,3.7%
+Moorpark ,Ventura                                               ,"19,300","18,700",600,3.3%
+Oak Park ,Ventura                                               ,"7,100","6,800",300,4.0%
+Oak View ,Ventura                                               ,"2,200","2,100",100,3.4%
+Ojai ,Ventura                                               ,"3,500","3,400",100,3.3%
+Oxnard ,Ventura                                               ,"99,700","94,300","5,400",5.4%
+Piru ,Ventura                                               ,800,800,0,3.5%
+Port Hueneme ,Ventura                                               ,"10,300","10,000",300,3.4%
+San Buenaventura (Ventura) ,Ventura                                               ,"55,000","53,200","1,800",3.3%
+Santa Paula ,Ventura                                               ,"13,400","12,700",700,5.1%
+Simi Valley ,Ventura                                               ,"66,700","64,700","2,100",3.1%
+Thousand Oaks ,Ventura                                               ,"64,100","62,200","1,900",3.0%
+Auburn ,Placer                                                ,"6,900","6,700",200,3.2%
+Colfax ,Placer                                                ,"1,100","1,000",100,5.9%
+Dollar Point ,Placer                                                ,600,600,0,1.8%
+Foresthill ,Placer                                                ,700,700,0,2.7%
+Granite Bay ,Placer                                                ,"10,800","10,500",300,3.2%
+Kings Beach ,Placer                                                ,"1,900","1,900",0,2.0%
+Lincoln ,Placer                                                ,"19,200","18,600",700,3.5%
+Loomis town,Placer                                                ,"3,200","3,000",100,4.3%
+Meadow Vista ,Placer                                                ,"1,600","1,600",0,2.9%
+North Auburn ,Placer                                                ,"5,600","5,300",200,3.8%
+Rocklin ,Placer                                                ,"32,600","31,500","1,100",3.3%
+Roseville ,Placer                                                ,"68,000","65,800","2,200",3.2%
+Sunnyside Tahoe  ,Placer                                                ,700,700,0,4.3%
+Tahoe Vista ,Placer                                                ,900,800,0,2.7%
+Beckwourth ,Plumas                                                ,110,110,0,0.0%
+Belden ,Plumas                                                ,0,0,0,0.0%
+Bucks Lake ,Plumas                                                ,20,20,0,0.0%
+C Road ,Plumas                                                ,80,70,10,11.4%
+Canyondam ,Plumas                                                ,30,10,20,64.7%
+Chester ,Plumas                                                ,"1,220","1,170",50,4.2%
+Chilcoot Vinton ,Plumas                                                ,10,0,10,100.0%
+Clio ,Plumas                                                ,20,20,0,0.0%
+Crescent Mills ,Plumas                                                ,130,130,0,0.0%
+Cromberg ,Plumas                                                ,60,60,0,0.0%
+Delleker ,Plumas                                                ,260,260,0,0.0%
+East Quincy ,Plumas                                                ,"1,240","1,200",50,3.6%
+East Shore ,Plumas                                                ,120,90,30,21.6%
+Graeagle ,Plumas                                                ,290,280,10,2.8%
+Greenhorn ,Plumas                                                ,140,120,10,8.1%
+Greenville ,Plumas                                                ,250,250,0,1.6%
+Hamilton Branch ,Plumas                                                ,240,200,30,14.3%
+Indian Falls ,Plumas                                                ,0,0,0,0.0%
+Iron Horse ,Plumas                                                ,180,160,30,13.7%
+Johnsville ,Plumas                                                ,0,0,0,0.0%
+Keddie ,Plumas                                                ,20,20,10,20.8%
+La Porte ,Plumas                                                ,0,0,0,0.0%
+Lake Almanor Country Club ,Plumas                                                ,90,90,0,0.0%
+Lake Almanor Peninsula ,Plumas                                                ,100,100,0,0.0%
+Lake Almanor West ,Plumas                                                ,60,60,10,8.2%
+Little Grass Valley ,Plumas                                                ,0,0,0,0.0%
+Meadow Valley ,Plumas                                                ,210,180,30,12.9%
+Mohawk Vista ,Plumas                                                ,70,70,10,8.3%
+Paxton ,Plumas                                                ,0,0,0,0.0%
+Plumas Eureka ,Plumas                                                ,110,110,0,3.7%
+Portola ,Plumas                                                ,830,750,80,9.8%
+Prattville ,Plumas                                                ,10,10,0,0.0%
+Quincy ,Plumas                                                ,900,860,40,4.7%
+Spring Garden ,Plumas                                                ,0,0,0,0.0%
+Taylorsville ,Plumas                                                ,70,50,20,22.9%
+Tobin ,Plumas                                                ,0,0,0,0.0%
+Twain ,Plumas                                                ,0,0,0,0.0%
+Valley Ranch ,Plumas                                                ,0,0,0,0.0%
+Whitehawk ,Plumas                                                ,10,10,0,0.0%
+Anderson ,Shasta                                                ,"4,200","3,900",300,6.1%
+Burney ,Shasta                                                ,"1,300","1,300",100,3.9%
+Cottonwood ,Shasta                                                ,"1,300","1,200",100,6.0%
+Fall River Mills ,Shasta                                                ,200,100,0,11.9%
+Redding ,Shasta                                                ,"39,700","38,100","1,600",4.1%
+Shasta Lake ,Shasta                                                ,"4,400","4,200",200,4.6%
+Shingletown ,Shasta                                                ,600,600,0,6.4%
+Banning ,Riverside                                             ,"11,200","10,600",600,5.3%
+Beaumont ,Riverside                                             ,"21,900","21,200",700,3.3%
+Bermuda Dunes ,Riverside                                             ,"3,900","3,700",200,4.1%
+Blythe ,Riverside                                             ,"6,000","5,800",300,4.7%
+Cabazon ,Riverside                                             ,"1,400","1,300",200,10.4%
+Calimesa ,Riverside                                             ,"3,400","3,200",200,4.8%
+Canyon Lake ,Riverside                                             ,"5,600","5,400",200,3.2%
+Cathedral  ,Riverside                                             ,"26,600","25,100","1,500",5.5%
+Cherry Valley ,Riverside                                             ,"3,400","3,300",100,4.0%
+Coachella ,Riverside                                             ,"20,500","17,900","2,700",13.0%
+Corona ,Riverside                                             ,"84,000","81,300","2,600",3.1%
+Desert Hot Springs ,Riverside                                             ,"11,700","10,900",800,6.9%
+East Hemet ,Riverside                                             ,"8,000","7,400",600,7.8%
+Eastvale  ,Riverside                                             ,"31,900","30,900","1,000",3.0%
+El Cerrito ,Riverside                                             ,"2,400","2,300",100,3.1%
+Hemet ,Riverside                                             ,"29,600","27,900","1,700",5.8%
+Highgrove ,Riverside                                             ,"2,200","2,000",200,8.0%
+Home Gardens ,Riverside                                             ,"5,600","5,400",200,3.5%
+Homeland ,Riverside                                             ,"3,000","2,900",200,5.0%
+Idyllwild Pine Cove ,Riverside                                             ,"1,400","1,300",0,1.8%
+Indian Wells ,Riverside                                             ,"1,800","1,800",0,2.6%
+Indio ,Riverside                                             ,"41,100","38,300","2,900",7.0%
+Jurupa Valley ,Riverside                                             ,"47,800","46,000","1,800",3.7%
+La Quinta ,Riverside                                             ,"19,300","18,200","1,100",5.8%
+Lake Elsinore ,Riverside                                             ,"29,900","28,700","1,200",3.9%
+Lakeland Village ,Riverside                                             ,"5,800","5,400",400,7.4%
+Lakeview ,Riverside                                             ,"1,100","1,000",100,5.6%
+March AFB ,Riverside                                             ,300,300,0,4.8%
+Mecca ,Riverside                                             ,"3,400","3,200",200,4.7%
+Menifee ,Riverside                                             ,"38,600","37,000","1,600",4.1%
+Moreno Valley ,Riverside                                             ,"94,400","90,200","4,200",4.5%
+Murrieta ,Riverside                                             ,"55,100","53,300","1,800",3.4%
+Norco ,Riverside                                             ,"11,700","11,300",400,3.6%
+Nuevo ,Riverside                                             ,"3,100","2,900",200,5.6%
+Palm Desert ,Riverside                                             ,"25,200","23,700","1,600",6.2%
+Palm Springs ,Riverside                                             ,"23,100","22,000","1,100",4.9%
+Perris ,Riverside                                             ,"30,500","29,000","1,400",4.7%
+Rancho Mirage ,Riverside                                             ,"6,400","6,200",200,3.7%
+Riverside ,Riverside                                             ,"153,600","147,800","5,800",3.7%
+Romoland ,Riverside                                             ,800,800,0,2.8%
+San Jacinto ,Riverside                                             ,"18,700","17,800","1,000",5.2%
+Temecula ,Riverside                                             ,"55,200","53,300","1,900",3.4%
+Thousand Palms ,Riverside                                             ,"2,800","2,700",100,3.5%
+Valle Vista ,Riverside                                             ,"6,600","6,200",300,5.0%
+Wildomar ,Riverside                                             ,"17,500","16,900",700,3.8%
+Winchester ,Riverside                                             ,"1,200","1,100",100,7.8%
+Woodcrest ,Riverside                                             ,"8,400","8,000",300,4.1%
+Arden Arcade ,Sacramento                                            ,"45,800","43,400","2,500",5.4%
+Carmichael ,Sacramento                                            ,"31,200","29,900","1,300",4.1%
+Citrus Heights ,Sacramento                                            ,"44,000","42,400","1,600",3.7%
+Elk Grove ,Sacramento                                            ,"83,400","80,500","2,900",3.4%
+Fair Oaks ,Sacramento                                            ,"15,300","14,700",500,3.4%
+Florin ,Sacramento                                            ,"20,400","19,200","1,200",5.8%
+Folsom ,Sacramento                                            ,"37,500","36,300","1,100",3.0%
+Foothill Farms ,Sacramento                                            ,"15,300","14,700",600,4.2%
+Galt ,Sacramento                                            ,"11,500","11,000",500,4.3%
+Gold River ,Sacramento                                            ,"3,500","3,400",100,2.9%
+Isleton ,Sacramento                                            ,300,300,0,5.5%
+La Riviera ,Sacramento                                            ,"5,800","5,600",200,2.8%
+North Highlands ,Sacramento                                            ,"19,500","18,900",600,3.3%
+Orangevale ,Sacramento                                            ,"17,200","16,800",500,2.7%
+Rancho Cordova ,Sacramento                                            ,"35,200","33,800","1,400",4.0%
+Rancho Murieta ,Sacramento                                            ,"2,200","2,200",0,1.7%
+Rio Linda ,Sacramento                                            ,"6,800","6,500",200,3.2%
+Rosemont ,Sacramento                                            ,"12,400","11,900",500,3.9%
+Sacramento ,Sacramento                                            ,"236,000","226,600","9,400",4.0%
+Vineyard ,Sacramento                                            ,"13,200","12,800",400,2.9%
+Walnut Grove ,Sacramento                                            ,700,700,0,6.1%
+Wilton ,Sacramento                                            ,"2,400","2,400",0,1.6%
+Aromas  (Monterey Co),Monterey                                              ,"1,500","1,500",100,4.7%
+Boronda ,Monterey                                              ,400,400,0,1.6%
+Bradley ,Monterey                                              ,100,100,0,2.3%
+Carmel by the Sea ,Monterey                                              ,"1,700","1,700",0,0.1%
+Carmel Valley Village ,Monterey                                              ,"2,600","2,500",100,5.3%
+Castroville ,Monterey                                              ,"3,600","3,300",300,8.4%
+Chualar ,Monterey                                              ,800,700,0,5.5%
+Del Monte Forest ,Monterey                                              ,"1,800","1,700",100,7.1%
+Del Rey Oaks ,Monterey                                              ,"1,000","1,000",0,4.3%
+Elkhorn ,Monterey                                              ,700,700,0,0.0%
+Gonzales ,Monterey                                              ,"4,200","4,100",0,1.1%
+Greenfield ,Monterey                                              ,"8,400","8,000",400,4.7%
+King  ,Monterey                                              ,"6,700","6,300",300,4.7%
+Las Lomas ,Monterey                                              ,"2,300","2,200",100,5.7%
+Marina ,Monterey                                              ,"13,400","12,900",500,3.5%
+Monterey ,Monterey                                              ,"16,700","16,200",500,3.2%
+Moss Landing ,Monterey                                              ,100,100,0,0.0%
+Pacific Grove ,Monterey                                              ,"9,200","8,900",300,3.1%
+Pajaro ,Monterey                                              ,"1,900","1,600",300,13.7%
+Prunedale ,Monterey                                              ,"12,700","12,200",600,4.5%
+Salinas ,Monterey                                              ,"83,800","79,600","4,200",5.0%
+San Ardo ,Monterey                                              ,200,200,0,1.0%
+San Lucas ,Monterey                                              ,200,100,0,12.3%
+Sand  ,Monterey                                              ,200,200,0,2.4%
+Seaside ,Monterey                                              ,"18,800","18,200",600,3.2%
+Soledad ,Monterey                                              ,"8,400","7,900",500,5.6%
+Spreckels ,Monterey                                              ,300,300,0,0.0%
+Hollister ,San Benito                                            ,"19,500","18,600","1,000",4.9%
+Ridgemark ,San Benito                                            ,"1,500","1,400",0,2.5%
+San Juan Bautista ,San Benito                                            ,"1,100","1,000",0,3.4%
+Adelanto ,San Bernardino                                        ,"9,700","8,900",800,8.1%
+Apple Valley town,San Bernardino                                        ,"29,200","27,700","1,500",5.0%
+Barstow ,San Bernardino                                        ,"8,700","8,200",500,6.1%
+Big Bear  ,San Bernardino                                        ,"5,900","5,700",200,3.1%
+Big Bear Lake ,San Bernardino                                        ,"2,400","2,300",0,1.9%
+Big River ,San Bernardino                                        ,400,400,0,4.9%
+Bloomington ,San Bernardino                                        ,"10,500","9,900",500,5.1%
+Bluewater ,San Bernardino                                        ,0,0,0,0.0%
+Chino ,San Bernardino                                        ,"42,800","41,300","1,500",3.5%
+Chino Hills ,San Bernardino                                        ,"44,000","42,800","1,200",2.7%
+Colton ,San Bernardino                                        ,"24,800","23,700","1,100",4.3%
+Crestline ,San Bernardino                                        ,"4,600","4,500",100,2.1%
+Fontana ,San Bernardino                                        ,"98,800","95,100","3,700",3.8%
+Grand Terrace ,San Bernardino                                        ,"6,300","6,000",200,3.8%
+Hesperia ,San Bernardino                                        ,"35,900","34,000","1,900",5.4%
+Highland ,San Bernardino                                        ,"24,800","23,700","1,000",4.1%
+Joshua Tree ,San Bernardino                                        ,"2,900","2,700",200,6.1%
+Lake Arrowhead ,San Bernardino                                        ,"4,900","4,800",100,2.6%
+Lenwood ,San Bernardino                                        ,"2,200","2,100",0,1.7%
+Loma Linda ,San Bernardino                                        ,"11,500","11,200",300,2.5%
+Mentone ,San Bernardino                                        ,"5,200","5,000",200,3.7%
+Montclair ,San Bernardino                                        ,"19,200","18,600",600,3.2%
+Morongo Valley ,San Bernardino                                        ,"1,600","1,600",100,4.2%
+Mountain View Acres ,San Bernardino                                        ,"1,300","1,200",100,7.1%
+Muscoy ,San Bernardino                                        ,"4,500","4,100",500,10.0%
+Needles ,San Bernardino                                        ,"1,800","1,700",0,2.4%
+Ontario ,San Bernardino                                        ,"86,300","83,200","3,100",3.6%
+Rancho Cucamonga ,San Bernardino                                        ,"96,600","93,600","3,000",3.1%
+Redlands ,San Bernardino                                        ,"35,700","34,600","1,100",3.1%
+Rialto ,San Bernardino                                        ,"45,000","42,900","2,100",4.7%
+Running Springs ,San Bernardino                                        ,"2,100","2,000",100,4.8%
+San Antonio Heights ,San Bernardino                                        ,"1,700","1,700",0,1.0%
+San Bernardino ,San Bernardino                                        ,"85,200","80,800","4,400",5.1%
+Searles Valley ,San Bernardino                                        ,600,600,100,9.8%
+Twentynine Palms ,San Bernardino                                        ,"7,100","6,700",400,5.5%
+Upland ,San Bernardino                                        ,"39,700","38,300","1,400",3.4%
+Victorville ,San Bernardino                                        ,"46,300","43,500","2,800",6.0%
+Wrightwood ,San Bernardino                                        ,"2,100","2,000",100,3.0%
+Yucaipa ,San Bernardino                                        ,"25,300","24,400",800,3.4%
+Yucca Valley town,San Bernardino                                        ,"8,600","8,200",500,5.6%
+Bonita ,San Diego                                             ,"6,100","5,800",300,4.3%
+Bostonia ,San Diego                                             ,"8,100","7,600",600,7.3%
+Carlsbad ,San Diego                                             ,"55,500","53,800","1,700",3.1%
+Casa de Oro Mount Helix ,San Diego                                             ,"9,900","9,500",400,3.7%
+Chula Vista ,San Diego                                             ,"123,700","119,300","4,500",3.6%
+Coronado ,San Diego                                             ,"8,800","8,500",300,3.3%
+Del Mar ,San Diego                                             ,"2,500","2,400",0,1.8%
+El Cajon ,San Diego                                             ,"45,700","43,900","1,800",3.9%
+Encinitas ,San Diego                                             ,"33,600","32,700",900,2.6%
+Escondido ,San Diego                                             ,"69,800","67,600","2,200",3.2%
+Fallbrook ,San Diego                                             ,"13,500","13,100",400,3.2%
+Imperial Beach ,San Diego                                             ,"12,000","11,600",500,3.9%
+La Mesa ,San Diego                                             ,"31,000","30,000","1,000",3.3%
+Lakeside ,San Diego                                             ,"10,800","10,400",400,3.7%
+Lemon Grove ,San Diego                                             ,"12,600","12,100",500,3.8%
+National  ,San Diego                                             ,"24,900","23,900","1,000",4.1%
+Oceanside ,San Diego                                             ,"82,900","80,100","2,900",3.5%
+Poway ,San Diego                                             ,"26,000","25,300",700,2.6%
+Ramona ,San Diego                                             ,"11,300","10,900",300,3.0%
+San Diego ,San Diego                                             ,"722,100","698,600","23,500",3.2%
+San Marcos ,San Diego                                             ,"42,600","41,300","1,300",3.1%
+Santee ,San Diego                                             ,"29,500","28,600",900,3.0%
+Solana Beach ,San Diego                                             ,"7,300","7,200",100,1.7%
+Spring Valley ,San Diego                                             ,"14,100","13,400",700,4.8%
+Valley Center ,San Diego                                             ,"4,600","4,400",200,3.6%
+Vista ,San Diego                                             ,"45,500","43,900","1,600",3.5%
+San Francisco                                        ,San Francisco                                         ,"586,900","573,600","13,300",2.3%
+Arroyo Grande ,San Luis Obispo                                       ,"9,000","8,700",200,2.7%
+Atascadero ,San Luis Obispo                                       ,"15,100","14,700",500,3.0%
+Cambria ,San Luis Obispo                                       ,"2,600","2,500",100,4.6%
+Cayucos ,San Luis Obispo                                       ,"1,400","1,400",0,2.5%
+El Paso de Robles (Paso Robles) ,San Luis Obispo                                       ,"15,800","15,300",500,2.9%
+Grover Beach ,San Luis Obispo                                       ,"6,600","6,400",200,3.0%
+Lake Nacimiento ,San Luis Obispo                                       ,"1,200","1,100",0,2.2%
+Morro Bay ,San Luis Obispo                                       ,"4,900","4,800",200,3.5%
+Nipomo ,San Luis Obispo                                       ,"8,900","8,600",300,3.6%
+Oceano ,San Luis Obispo                                       ,"3,600","3,500",100,4.0%
+Pismo Beach ,San Luis Obispo                                       ,"4,200","4,100",100,2.5%
+San Luis Obispo ,San Luis Obispo                                       ,"24,900","24,200",700,2.8%
+San Miguel ,San Luis Obispo                                       ,"1,300","1,200",100,7.9%
+Shandon ,San Luis Obispo                                       ,700,600,0,5.0%
+Templeton ,San Luis Obispo                                       ,"3,900","3,800",100,1.4%
+Atherton town,San Mateo                                             ,"3,300","3,200",100,2.3%
+Belmont ,San Mateo                                             ,"17,000","16,600",400,2.2%
+Brisbane ,San Mateo                                             ,"3,000","2,900",100,1.7%
+Broadmoor ,San Mateo                                             ,"3,400","3,200",200,4.8%
+Burlingame ,San Mateo                                             ,"18,700","18,400",400,2.0%
+Daly  ,San Mateo                                             ,"66,100","64,600","1,500",2.2%
+East Palo Alto ,San Mateo                                             ,"15,300","14,900",400,2.5%
+El Granada ,San Mateo                                             ,"4,000","3,900",100,2.9%
+Foster  ,San Mateo                                             ,"20,500","20,100",400,2.0%
+Half Moon Bay ,San Mateo                                             ,"8,000","7,900",100,1.5%
+Hillsborough town,San Mateo                                             ,"5,200","5,100",100,2.2%
+Menlo Park ,San Mateo                                             ,"20,100","19,700",400,2.1%
+Millbrae ,San Mateo                                             ,"13,100","12,800",300,2.2%
+North Fair Oaks ,San Mateo                                             ,"9,100","8,800",200,2.6%
+Pacifica ,San Mateo                                             ,"24,800","24,300",500,2.1%
+Redwood  ,San Mateo                                             ,"52,100","51,100","1,100",2.1%
+San Bruno ,San Mateo                                             ,"27,500","26,900",600,2.2%
+San Carlos ,San Mateo                                             ,"18,100","17,700",400,2.1%
+San Mateo ,San Mateo                                             ,"65,700","64,400","1,300",2.0%
+South San Francisco ,San Mateo                                             ,"40,000","39,000","1,000",2.4%
+West Menlo Park ,San Mateo                                             ,"2,000","1,900",0,2.4%
+Corte Madera town,Marin                                                 ,"5,500","5,300",100,2.5%
+Fairfax town,Marin                                                 ,"4,700","4,700",100,1.8%
+Inverness ,Marin                                                 ,600,600,0,0.6%
+Larkspur ,Marin                                                 ,"6,800","6,700",200,2.2%
+Mill Valley ,Marin                                                 ,"7,300","7,200",100,1.2%
+Novato ,Marin                                                 ,"30,200","29,400",800,2.5%
+Point Reyes Station ,Marin                                                 ,200,200,0,0.0%
+San Anselmo town,Marin                                                 ,"7,400","7,200",200,2.8%
+San Rafael ,Marin                                                 ,"33,000","32,200",800,2.3%
+Sausalito ,Marin                                                 ,"4,700","4,600",100,2.2%
+Tamalpais Homestead Valley ,Marin                                                 ,"6,100","5,900",200,3.2%
+Tomales ,Marin                                                 ,300,300,0,0.0%
+Campbell ,Santa Clara                                           ,"26,400","25,800",600,2.4%
+Cupertino ,Santa Clara                                           ,"30,300","29,600",800,2.5%
+East Foothills ,Santa Clara                                           ,"3,800","3,800",100,1.5%
+Gilroy ,Santa Clara                                           ,"30,100","29,300",900,2.9%
+Los Altos ,Santa Clara                                           ,"15,100","14,700",400,2.6%
+Los Gatos town,Santa Clara                                           ,"16,400","15,900",500,2.8%
+Milpitas ,Santa Clara                                           ,"42,300","41,100","1,200",2.9%
+Morgan Hill ,Santa Clara                                           ,"24,500","23,800",600,2.6%
+Mountain View ,Santa Clara                                           ,"52,200","51,100","1,000",2.0%
+Palo Alto ,Santa Clara                                           ,"36,400","35,700",700,2.0%
+San Jose ,Santa Clara                                           ,"563,300","547,600","15,700",2.8%
+San Martin ,Santa Clara                                           ,"4,000","3,900",100,2.7%
+Santa Clara ,Santa Clara                                           ,"71,200","69,400","1,700",2.5%
+Saratoga ,Santa Clara                                           ,"15,200","14,800",400,2.7%
+Sunnyvale ,Santa Clara                                           ,"89,000","87,100","1,900",2.1%
+Aptos ,Santa Cruz                                            ,"3,500","3,400",100,2.3%
+Aptos Hills Larkin Valley ,Santa Cruz                                            ,"1,200","1,200",100,7.0%
+Ben Lomond ,Santa Cruz                                            ,"3,800","3,700",100,2.4%
+Boulder Creek ,Santa Cruz                                            ,"2,500","2,400",200,6.0%
+Capitola ,Santa Cruz                                            ,"5,700","5,600",100,1.8%
+Corralitos ,Santa Cruz                                            ,"1,600","1,500",0,1.6%
+Day Valley ,Santa Cruz                                            ,"1,700","1,700",0,2.6%
+Felton ,Santa Cruz                                            ,"2,100","2,000",100,5.1%
+Freedom ,Santa Cruz                                            ,"1,600","1,500",0,2.1%
+Interlaken ,Santa Cruz                                            ,"3,300","3,200",100,3.1%
+Live Oak ,Santa Cruz                                            ,"9,400","9,100",200,2.5%
+Rio del Mar ,Santa Cruz                                            ,"4,800","4,700",100,3.0%
+Santa Cruz ,Santa Cruz                                            ,"34,100","32,800","1,300",3.8%
+Scotts Valley ,Santa Cruz                                            ,"6,200","6,000",200,3.0%
+Soquel ,Santa Cruz                                            ,"6,200","6,000",200,3.6%
+Twin Lakes ,Santa Cruz                                            ,"2,900","2,700",200,5.7%
+Watsonville ,Santa Cruz                                            ,"25,200","23,900","1,200",5.0%
+Buellton ,Santa Barbara                                         ,"2,800","2,800",0,1.2%
+Carpinteria ,Santa Barbara                                         ,"7,500","7,200",300,3.5%
+Goleta ,Santa Barbara                                         ,"17,300","16,900",400,2.5%
+Guadalupe ,Santa Barbara                                         ,"3,200","3,100",100,3.0%
+Isla Vista ,Santa Barbara                                         ,"12,800","11,900","1,000",7.7%
+Lompoc ,Santa Barbara                                         ,"17,500","16,700",800,4.5%
+Los Alamos ,Santa Barbara                                         ,700,700,0,4.8%
+Mission Canyon ,Santa Barbara                                         ,"1,500","1,400",0,3.3%
+Mission Hills ,Santa Barbara                                         ,"2,100","2,000",100,5.1%
+Montecito ,Santa Barbara                                         ,"3,400","3,200",200,4.5%
+Orcutt ,Santa Barbara                                         ,"14,700","14,200",500,3.4%
+Santa Barbara ,Santa Barbara                                         ,"51,100","49,700","1,400",2.8%
+Santa Maria ,Santa Barbara                                         ,"48,500","46,500","2,000",4.1%
+Santa Ynez ,Santa Barbara                                         ,"2,300","2,200",100,5.2%
+Solvang ,Santa Barbara                                         ,"3,000","3,000",100,2.1%
+Summerland ,Santa Barbara                                         ,500,500,0,2.2%
+Toro Canyon ,Santa Barbara                                         ,800,800,0,2.3%
+Vandenberg AFB ,Santa Barbara                                         ,900,800,0,4.1%
+Vandenberg Village ,Santa Barbara                                         ,"3,400","3,300",100,3.0%
+Bodega Bay ,Sonoma                                                ,500,500,0,1.7%
+Boyes Hot Springs ,Sonoma                                                ,"4,000","3,900",100,2.6%
+Cloverdale ,Sonoma                                                ,"4,500","4,400",100,1.8%
+Cotati ,Sonoma                                                ,"4,400","4,300",100,2.5%
+El Verano ,Sonoma                                                ,"2,000","2,000",0,1.9%
+Fetters Hot Springs Agua Caliente ,Sonoma                                                ,"2,600","2,500",100,2.7%
+Forestville ,Sonoma                                                ,"2,100","2,000",100,3.0%
+Glen Ellen ,Sonoma                                                ,500,500,0,0.0%
+Graton ,Sonoma                                                ,800,700,0,5.8%
+Guerneville ,Sonoma                                                ,"2,400","2,300",100,3.0%
+Healdsburg ,Sonoma                                                ,"6,200","6,000",100,2.3%
+Monte Rio ,Sonoma                                                ,600,500,0,7.5%
+Occidental ,Sonoma                                                ,500,500,0,0.0%
+Petaluma ,Sonoma                                                ,"33,800","33,000",900,2.6%
+Rohnert Park ,Sonoma                                                ,"23,600","23,000",700,2.8%
+Santa Rosa ,Sonoma                                                ,"89,900","87,400","2,500",2.8%
+Sebastopol ,Sonoma                                                ,"4,100","3,900",200,4.1%
+Sonoma ,Sonoma                                                ,"5,600","5,400",200,3.7%
+Windsor town,Sonoma                                                ,"14,300","13,900",400,2.7%
+Loyalton ,Sierra                                                ,430,410,20,4.7%
+Dunsmuir ,Siskiyou                                              ,670,630,30,4.7%
+McCloud ,Siskiyou                                              ,390,360,30,8.2%
+Mount Shasta ,Siskiyou                                              ,"1,640","1,620",20,1.3%
+Weed ,Siskiyou                                              ,"1,140","1,070",70,6.1%
+Yreka ,Siskiyou                                              ,"2,810","2,630",190,6.6%
+August ,San Joaquin                                           ,"3,000","2,700",300,11.0%
+Country Club ,San Joaquin                                           ,"4,400","3,900",400,10.1%
+Escalon ,San Joaquin                                           ,"3,700","3,600",0,1.3%
+Farmington ,San Joaquin                                           ,0,0,0,0.0%
+French Camp ,San Joaquin                                           ,"1,100","1,000",100,9.6%
+Garden Acres ,San Joaquin                                           ,"4,700","4,400",300,7.2%
+Kennedy ,San Joaquin                                           ,"1,300","1,200",100,8.7%
+Lathrop ,San Joaquin                                           ,"9,600","9,100",500,5.1%
+Lincoln Village ,San Joaquin                                           ,"2,200","2,000",200,7.8%
+Linden ,San Joaquin                                           ,"1,200","1,100",0,2.5%
+Lockeford ,San Joaquin                                           ,"1,500","1,400",100,4.5%
+Lodi ,San Joaquin                                           ,"29,400","27,900","1,500",5.0%
+Manteca ,San Joaquin                                           ,"36,800","35,100","1,700",4.7%
+Morada ,San Joaquin                                           ,"1,600","1,600",0,2.0%
+Ripon ,San Joaquin                                           ,"7,600","7,400",200,3.0%
+Stockton ,San Joaquin                                           ,"130,700","121,800","8,900",6.8%
+Taft Mosswood ,San Joaquin                                           ,400,400,0,4.8%
+Tracy ,San Joaquin                                           ,"43,700","41,800","1,900",4.4%
+Live Oak ,Sutter                                                ,"4,000","3,800",200,4.9%
+Sutter ,Sutter                                                ,"1,700","1,700",0,2.0%
+Yuba  ,Sutter                                                ,"32,300","30,300","2,000",6.1%
+Corning ,Tehama                                                ,"3,100","2,820",290,9.3%
+Los Molinos ,Tehama                                                ,770,730,40,5.3%
+Manton ,Tehama                                                ,120,120,10,4.2%
+Mineral ,Tehama                                                ,100,80,20,18.8%
+Rancho Tehama Reserve ,Tehama                                                ,870,810,60,7.2%
+Red Bluff ,Tehama                                                ,"5,370","5,050",320,5.9%
+Tehama ,Tehama                                                ,150,140,10,8.1%
+Hayfork ,Trinity                                               ,"1,220","1,210",10,0.7%
+Lewiston ,Trinity                                               ,490,470,20,3.9%
+Weaverville ,Trinity                                               ,"1,260","1,170",80,6.6%
+Chinese Camp ,Tuolumne                                              ,40,40,0,0.0%
+Columbia ,Tuolumne                                              ,790,700,90,11.6%
+East Sonora ,Tuolumne                                              ,"1,150","1,150",0,0.0%
+Jamestown ,Tuolumne                                              ,"1,250","1,200",40,3.4%
+Mi Wuk Village ,Tuolumne                                              ,280,220,70,23.5%
+Mono Vista ,Tuolumne                                              ,"1,540","1,510",40,2.3%
+Sonora ,Tuolumne                                              ,"2,180","2,080",100,4.4%
+Soulsbyville ,Tuolumne                                              ,"1,150","1,080",60,5.6%
+Tuolumne  ,Tuolumne                                              ,500,500,0,0.0%
+Twain Harte ,Tuolumne                                              ,"1,220","1,220",0,0.0%
+Benicia ,Solano                                                ,"14,800","14,400",400,3.0%
+Dixon ,Solano                                                ,"9,700","9,300",400,4.3%
+Elmira ,Solano                                                ,100,100,0,4.5%
+Fairfield ,Solano                                                ,"53,000","51,000","2,000",3.8%
+Green Valley ,Solano                                                ,600,600,0,0.0%
+Rio Vista ,Solano                                                ,"3,000","2,900",100,3.0%
+Suisun  ,Solano                                                ,"14,300","13,700",500,3.8%
+Vacaville ,Solano                                                ,"45,800","44,200","1,600",3.5%
+Vallejo ,Solano                                                ,"56,500","54,000","2,400",4.3%
+Alpaugh ,Tulare                                                ,400,300,100,14.0%
+Cutler ,Tulare                                                ,"2,300","2,100",300,12.1%
+Dinuba ,Tulare                                                ,"11,300","9,900","1,300",11.9%
+Ducor ,Tulare                                                ,300,300,0,8.6%
+Earlimart ,Tulare                                                ,"3,700","3,200",500,13.9%
+East Orosi ,Tulare                                                ,400,200,100,32.7%
+East Porterville ,Tulare                                                ,"2,400","2,000",400,17.0%
+Exeter ,Tulare                                                ,"4,900","4,500",400,8.4%
+Farmersville ,Tulare                                                ,"4,900","4,300",600,12.1%
+Goshen ,Tulare                                                ,"1,500","1,400",200,10.3%
+Ivanhoe ,Tulare                                                ,"1,600","1,500",100,8.9%
+Lemon Cove ,Tulare                                                ,100,100,0,12.9%
+Lindsay ,Tulare                                                ,"5,600","5,100",500,9.2%
+London ,Tulare                                                ,700,600,100,17.0%
+Pixley ,Tulare                                                ,"1,500","1,400",100,9.8%
+Poplar Cotton Center ,Tulare                                                ,"1,200",900,200,20.1%
+Porterville ,Tulare                                                ,"25,900","22,700","3,200",12.5%
+Richgrove ,Tulare                                                ,"1,400","1,000",400,27.4%
+Springville ,Tulare                                                ,300,300,0,3.8%
+Strathmore ,Tulare                                                ,"1,600","1,400",300,15.5%
+Terra Bella ,Tulare                                                ,"1,500","1,200",300,19.5%
+Three Rivers ,Tulare                                                ,"1,100","1,000",100,4.9%
+Tipton ,Tulare                                                ,"1,300","1,100",200,14.3%
+Traver ,Tulare                                                ,300,300,0,7.9%
+Tulare ,Tulare                                                ,"28,300","26,500","1,800",6.4%
+Visalia ,Tulare                                                ,"62,600","59,100","3,500",5.6%
+Woodlake ,Tulare                                                ,"3,500","3,000",400,12.3%
+Woodville ,Tulare                                                ,800,700,100,11.7%
+Davis ,Yolo                                                  ,"36,200","35,100","1,100",3.0%
+Esparto ,Yolo                                                  ,"1,800","1,700",100,5.9%
+West Sacramento ,Yolo                                                  ,"25,900","24,900","1,000",3.9%
+Winters ,Yolo                                                  ,"3,900","3,700",200,4.8%
+Woodland ,Yolo                                                  ,"30,500","29,200","1,300",4.4%
+Beale AFB ,Yuba                                                  ,200,200,0,9.3%
+Challenge Brownsville ,Yuba                                                  ,300,300,0,0.0%
+Linda ,Yuba                                                  ,"7,000","6,400",500,7.4%
+Loma Rica ,Yuba                                                  ,"1,000","1,000",0,2.0%
+Marysville ,Yuba                                                  ,"4,800","4,400",400,7.8%
+Olivehurst ,Yuba                                                  ,"5,300","4,900",400,8.0%
+Wheatland ,Yuba                                                  ,"1,700","1,600",100,7.5%
