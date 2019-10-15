@@ -3,6 +3,12 @@
 
 # Import dependencies from Extract script
 import seba_extract as se
+print(f"""
+Seba Tables Received.
+----------------------------------
+...beginning Hawk TRANSFORM
+""")
+
 
 # Cities by population. Merge with cities by crime
 master_df = se.clean_cities_df.merge(se.clean_crime_df, how='inner', left_index=True, right_index=True)
@@ -38,12 +44,26 @@ for x in range(len(master_df)):
         
     # Insert other key value pairs from dataframe columns
     for i in range(len(keys) - 1):
+
         value = master_df.iloc[x,i]
+        
+        # For numpy data types take the value of the data, otherwise leave data as is 
+        try:
+            value = value.item()
+        except:
+            value = value
+
+        # Write document dictionary
         dictionary.update({keys[i+1]: value})
     
     master_list.append(dictionary)
 
-
+print(f"""
+----------------------------------
+Hawk List Transformed!
+----------------------------------
+Return: Master List of Dictionaries
+""")
 
 
 

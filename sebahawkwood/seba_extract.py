@@ -3,6 +3,7 @@
 
 # In[1]:
 
+print(f"...starting EXTRACT of Seba Tables.")
 
 import pandas as pd
 
@@ -205,8 +206,13 @@ unemployment_df.to_csv('Resources/clean_unemployment.csv')
 clean_home_df.to_csv('Resources/clean_home.csv')
 
 
-# In[ ]:
-
+print(f"""
+----------------------------------
+Seba Tables Extracted!
+----------------------------------
+Return: 5 Dataframes
+----------------------------------
+""")
 
 
 
