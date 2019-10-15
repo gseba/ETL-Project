@@ -35,12 +35,6 @@ cities_table = pd.read_html(cities_url)
 
 # Read CSV Files
 
-# Read the Unemployment CSV into a Pandas DataFrame
-csv_path = "Resources/Unemployment Rate California Cities.csv"
-
-# Read the Median Home Price CSV into a Pandas DataFrame
-csv_path = "Resources/median_home_price_city_ca.csv"
-
 
 # In[5]:
 
@@ -60,8 +54,14 @@ crime_rate_df.columns = ['City','County', 'Population', 'Population density', 'V
 cities_df = cities_table[1]
 cities_df.columns = ['City','Type', 'County', 'Population', 'sq mi', 'sq km', 'Incorporated']
 
+# Read the Unemployment CSV into a Pandas DataFrame
+csv_path = "Resources/Unemployment Rate California Cities.csv"
+
 # Unemployment DF
 unemployment_df = pd.read_csv(csv_path)
+
+# Read the Median Home Price CSV into a Pandas DataFrame
+csv_path = "Resources/median_home_price_city_ca.csv"
 
 # Median Home Price DF
 home_df = pd.read_csv(csv_path)
@@ -79,7 +79,7 @@ ages_df[['City','Population']] = ages_df['City/Population'].str.split('/',expand
 clean_ages_df = ages_df.drop(["Rank", "City/Population", "Population"], axis=1)
 
 # Remove the 'CA' from the end of each city name
-clean_ages_df['City'] = clean_ages_df['City'].str.replace(', CA','')
+clean_ages_df['City'] = clean_ages_df['City'].str.replace(', CA ', '')
 
 # Delete the first row to remove redundant header
 clean_ages_final_df = clean_ages_df.drop(clean_ages_df.index[0])
@@ -128,6 +128,9 @@ clean_cities_df.head()
 
 
 # Clean Unemployment DF
+
+# Remove trailing space off the "Area Name"
+unemployment_df['Area Name'] = unemployment_df['Area Name'].str.rstrip()
 
 # Rename the first column
 unemployment_df.rename(columns={"Area Name": "City"}, inplace=True)
